@@ -1,6 +1,6 @@
 <note>
-<to>Tove</to>
-<from>Jani</from>
-<heading>Reminder</heading>
-<body>Don't forget me this weekend!</body>
+<to>This</to>
+<from>is</from>
+<heading>Demo</heading>
+<body>Regarding kubernetes use cases.</body>
 </note>
